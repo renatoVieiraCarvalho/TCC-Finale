@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "financialApp",
+    "icon": "./src/assets/icon.png",
+    "slug": "financialApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.rntvieiracarvalho.financialapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b7a1a31d-6784-4dbc-8671-fbb79c336a0f"
+      }
+    }
+  }
+}
